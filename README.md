@@ -10,7 +10,7 @@
 
 <h2 id="objetivo">✅ Objetivo </h2>
 
-Me aprofundar mais em CSS, HTML e JavaScript para criação de futuros projetos frontend, Landing Page acessivel e de fácil compreensão!!
+Me aprofundar mais em HTML, CSS e JavaScript para criação de futuros projetos frontend, Landing Page acessivel e de fácil compreensão!
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
