@@ -1,4 +1,4 @@
-# 🚀 Maratona Explorer
+# Maratona Explorer 🚀
 <p align="center"><img width="500" src="./images/logo.svg"></p>
 
 <p align="center">Projeto da 1° edição da <a href="https://rseat.in/Aula1-Maratona-Explorer">Maratona Explorer</a>, evento gratuito criado pela <a href="https://www.rocketseat.com.br">Rocketseat</a>, onde construimos uma aplicação completa do zero.</p>
