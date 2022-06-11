@@ -1,28 +1,13 @@
-<h1 align="center">SQL JOB🔮</h1>
+# 🚀 Maratona Explorer
+<p align="center"><img width="500" src="./images/logo.svg"></p>
 
-<p align="center">🚀 Consultas query SQL!</p>
+<p align="center">Projeto da 1° edição da <a href="https://rseat.in/Aula1-Maratona-Explorer">Maratona Explorer</a>, evento gratuito criado pela <a href="https://www.rocketseat.com.br">Rocketseat</a>, onde construimos uma aplicação completa do zero.</p>
+<p align="center"> - Notion: https://efficient-sloth-d85.notion.site/Maratona-Explorer-a90d9b149e2e40c8863d0732007fa05d </p>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a>
-</p>
+### Projeto: *Maratona Explorer Vou revelar seu destino!*
+<p align="center"><img src="./images/maratona01.png"></p>
 
-<h2 id="objetivo">✅ Objetivo </h2>
-
-Exercicio SQL da Alura para a Five Academy!
-
-<h2 id="tecnologias"> 🛠 Tecnologias </h2>
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-<div align="center">
- <img align="center" alt="Marcu-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
- </div>
-
-<br>
-<p align="center">Feito por Alan Verissimo 👋🏽 Entre em contato!</p>
-
-<div align="center">  
-  <a href = "mailto:alanverissimodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/alanverissimo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🚀 Tecnologias Usadas
+- HTML
+- CSS
+- JavaScript
