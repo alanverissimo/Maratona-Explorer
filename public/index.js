@@ -21,20 +21,20 @@ const respostas = [
     "Sim.",
     "Concentre-se e pergunte novamente.",
     "Sinais apontam que sim."
-] 
+]
 
- function fazerPergunta() {
+function fazerPergunta() {
 
-    if(inputPergunta.value == "") {
-    alert("Digite sua pergunta")
-    return
+    if (inputPergunta.value == "") {
+        alert("Digite sua pergunta")
+        return
 
- }
+    }
 
- buttonPerguntar.setAttribute("disabled", false)
+    buttonPerguntar.setAttribute("disabled", false)
 
- const pergunta = "<div>" + inputPergunta.value + "</div>"
-     
+    const pergunta = "<div>" + inputPergunta.value + "</div>"
+
     const totalRespostas = respostas.length
     const numeroAleatorio = Math.floor(Math.random() * totalRespostas)
 
@@ -42,9 +42,9 @@ const respostas = [
 
     elementoResposta.style.opacity = 1;
 
-    setTimeout(function() {
+    setTimeout(function () {
         elementoResposta.style.opacity = 0;
         buttonPerguntar.removeAttribute("disabled")
     }, 3000)
- }
+}
 
