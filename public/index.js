@@ -21,9 +21,7 @@ const respostas = [
     "Sim.",
     "Concentre-se e pergunte novamente.",
     "Sinais apontam que sim."
-]
-
- 
+] 
 
  function fazerPergunta() {
 
@@ -36,8 +34,6 @@ const respostas = [
  buttonPerguntar.setAttribute("disabled", false)
 
  const pergunta = "<div>" + inputPergunta.value + "</div>"
-
-
      
     const totalRespostas = respostas.length
     const numeroAleatorio = Math.floor(Math.random() * totalRespostas)
