@@ -1,13 +1,30 @@
 # Maratona Explorer 🚀
 <p align="center"><img width="500" src="./images/logo.svg"></p>
 
-<p align="center">Projeto da 1° edição da <a href="https://rseat.in/Aula1-Maratona-Explorer">Maratona Explorer</a>, evento gratuito criado pela <a href="https://www.rocketseat.com.br">Rocketseat</a>, onde construimos uma aplicação completa do zero.</p>
-<p align="center"> - Notion: https://efficient-sloth-d85.notion.site/Maratona-Explorer-a90d9b149e2e40c8863d0732007fa05d </p>
+### `Objetivo`
 
-### Projeto: *Maratona Explorer Vou revelar seu destino!*
-<p align="center"><img src="./images/maratona01.png"></p>
+Aplicação destinada a revelar seu destino, pergunte com sabedoria :)
 
-## 🚀 Tecnologias Usadas
+### `Tecnologias`
+
 - HTML
 - CSS
 - JavaScript
+
+### `Como usar`
+Abra o arquivo index.html na pasta "public" na raiz do projeto
+
+
+### `Demonstração`
+
+
+https://user-images.githubusercontent.com/79871232/173716960-9545422d-f259-4250-baae-09769008222f.mp4
+
+
+------------------------------------------------------------------
+
+Qualquer dúvida entre em contato por <a href="mailto:alanverissimodev@gmail.com?">alanverissimodev@gmail.com</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanverissimo/)](https://www.linkedin.com/in/alanverissimo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanverissimodev@gmail.com)](mailto:alanverissimodev@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521982609925)
